@@ -1,0 +1,9 @@
+.rough-bg-div {
+  background-image: url("../../assets/header.jpg");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  align-content: center;
+  justify-items: center;
+  color: white;
+}
