@@ -25,6 +25,11 @@ div img {
   right: 0px;
 }
 
+.linkedin {
+  color: red;
+  font-size: 80px;
+}
+
 .navbar-link-display {
   display: flex;
   list-style: none;
