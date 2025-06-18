@@ -1,0 +1,81 @@
+.main-p {
+  text-align: center;
+  justify-content: center;
+  height: 20vh;
+  width: 200vh;
+  margin-top: 70px;
+  font-size: 3em;
+  color: darkgreen;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+}
+
+div hr {
+  background-color: gold;
+  height: 4px;
+  width: 9.5%;
+  margin-bottom: 70px;
+  display: flex;
+  justify-self: center;
+  margin-top: -70px;
+  transform: translateX(-55px);
+}
+
+.flex-container {
+  display: flex;
+  height: 100vh;
+  width: 200vh;
+  gap: 0px;
+  color: rgb(68, 68, 68);
+  justify-content: center;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+.flex-container div img {
+  height: 500px;
+  width: 370px;
+  margin-top: 5px;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}
+
+.service-1 h2 {
+  color: gray;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.service-2 h3 {
+  color: gray;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.service-3 h1 {
+  color: gray;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.flex-container p {
+  color: gray;
+  width: 300px;
+  margin-top: 15px;
+  padding-left: 10px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 17px;
+}
